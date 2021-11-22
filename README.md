@@ -22,13 +22,13 @@ Aspiring software developer, currently self-learning Full-stack web development.
   <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
   <img alt="Pug" src="https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=pug&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=orange" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-ffffff?style=flat-square&logo=python&logoColor=yellow" />
-  <img alt="Node" src="https://img.shields.io/badge/-Node-7CFC00?style=flat-square&logo=node&logoColor=black" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-ffca28?style=flat-square&logo=mongodb&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-1d425f?style=flat-square&logo=python&logoColor=yellow" />
+  <img alt="Node" src="https://img.shields.io/badge/-Node-333333?style=flat-square&logo=nodejs&logoColor=green" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-ffffff?style=flat-square&logo=mongodb&logoColor=green" />
 </p>
 
 Here are some facts about me
