@@ -48,8 +48,8 @@ Here are some facts about me
 <span align="right">
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=msumari&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
-<span align="right">
-![My Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=msumari&theme=blue-green&hide_border=true&background=3D3D3D)
+<span>
+![My Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=msumari&hide_border=true&theme=black-ice&bg_color=3D3D3D&title_color=00E6FE)
 </span>
 
 ## ✉️ Contact me
