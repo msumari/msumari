@@ -48,8 +48,11 @@ Here are some facts about me
 <span align="right">
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=msumari&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
+<span align="right">
+![My Top Languanges](https://github-readme-stats.vercel.app/api/top-langs/?username=msumari&theme=blue-green&hide_border=true&background=3D3D3D)
+</span>
 
 ## ✉️ Contact me
 
 [<img alt="MongoDB" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/KherySuleiman)
-[<img alt="Website" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=flat-square&logo=msumari.com&logoColor=white" />](https://www.msumari.com)
+[<img alt="Website" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=flat-square&logo=msumari.com&logoColor=white" />](https://msumari.com)
