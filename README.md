@@ -1,7 +1,7 @@
-### 👋 Hi! Everyone!
+### <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Suley</b>
 
-## Suleiman Msumari
-
+<br>
+<img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/>
 Aspiring software developer, currently self-learning Full-stack web development. My current interests are video streaming platforms 👩‍💻, e-commerces, digitalization, and data automation.
 
 ## Skills
