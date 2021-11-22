@@ -27,7 +27,7 @@ Aspiring software developer, currently self-learning Full-stack web development.
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-1d425f?style=flat-square&logo=python&logoColor=yellow" />
-  <img alt="Node" src="https://img.shields.io/badge/-Node-333333?style=flat-square&logo=nodejs&logoColor=green" />
+  <img alt="Node" src="https://img.shields.io/badge/-Node-333333?style=flat-square&logo=node.js&logoColor=green" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-ffffff?style=flat-square&logo=mongodb&logoColor=green" />
 </p>
 
