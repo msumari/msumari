@@ -51,5 +51,5 @@ Here are some facts about me
 
 ## ✉️ Contact me
 
-[Twitter](https://twitter.com/KherySuleiman)
-[Website](https://www.msumari.com)
+[<img alt="MongoDB" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/KherySuleiman)
+[<img alt="Website" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?style=flat-square&logo=msumari.com&logoColor=white" />](https://www.msumari.com)
